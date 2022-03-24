@@ -1,0 +1,31 @@
+td{
+    background-color: #FFFFFF;
+    width: 1292px;
+    height: 70px;
+    color: #47525E;
+    font-family: Lato;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+th {
+  background-color: #EFF2F7;
+  width: 1292px;
+  height: 70px;
+  color: #47525E;
+  font-family: Lato;
+  font-size: 16px;
+  line-height: 20px;
+  width: 281px;
+  text-align: center;
+  font-weight: bold;
+}
+
+table{
+    align-self: center;
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid #C0CCDA;
+} 
